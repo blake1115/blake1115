@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blake1115
+- 👋 Hi, gitadd. picture and user name 
 - 👀 I’m interested in ...Spotify streamign - 🌱 I’m currently learning ...how
 to code on xcode 
 - 💞️ I’m looking to collaborate on anythimg 

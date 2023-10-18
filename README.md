@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...Spotify streamign - 🌱 <h1>I’m currently learning</h1>...how
 to code on xcode 
 - 💞️ I’m looking to collaborate on anythimg 
-- 📫 How to reach me ...python. 
-attach github to boutton
-<h1>welcome to my page</h1> 
+- 📫 How to reach me .
+<h1>welcome to my page</h1> import botton*
+
 
 <!---
 blake1115/blake1115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

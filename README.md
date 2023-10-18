@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...Spotify streamign - 🌱 <h1>I’m currently learning</h1>...how
 to code on xcode 
 - 💞️ I’m looking to collaborate on anythimg 
-- 📫 How to reach me .
-<h1>welcome to my page</h1> import botton*
+- 📫 How to reach me <h2><button>bstymest1115@gamil.com</button>
+<h1>welcome to my page</h1> 
 
 
 <!---

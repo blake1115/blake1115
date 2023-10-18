@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...Spotify streamign - 🌱 <h1>I’m currently learning</h1>...how
 to code on xcode 
 - 💞️ I’m looking to collaborate on anythimg 
-- 📫 How to reach me ...
+- 📫 How to reach me ...python. 
+attach github to boutton
 <h1>welcome to my page</h1> 
 
 <!---
